@@ -13,9 +13,7 @@
 
 ## 🔄 Профессиональная переподготовка
 
-<img src="https://github.com/Anastasiya-analyst/diploma-keeper/blob/main/images/%D1%81%D0%BA%D0%B0%D0%BD%20%D0%A2%D0%93%D0%A3%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA.jpg?raw=true" 
-     alt="Диплом ТГУ по аналитике данных" 
-     width="800">
+![Диплом СГЭУ](https://raw.githubusercontent.com/Anastasiya-analyst/diploma-keeper/refs/heads/main/images/%D1%81%D0%BA%D0%B0%D0%BD%20%D0%A2%D0%93%D0%A3%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA.jpg)
 
 ### Data-аналитик: анализ данных в организации
 - **Программа:** Профессиональная переподготовка
