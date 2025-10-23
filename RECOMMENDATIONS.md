@@ -4,7 +4,7 @@
 
 > *"Показала выдающиеся способности в анализе данных и решении бизнес-задач..."*
 
-![Рекомендательное письмо](assets/recommendation_letter.png)
+![Рекомендательное письмо](https://raw.githubusercontent.com/Anastasiya-analyst/diploma-keeper/refs/heads/main/images/%D0%A0%D0%B5%D0%BA.%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%E2%84%96799%2C%20%D0%9E%D1%81%D0%B8%D0%BD%D0%B0%20%D0%90.%D0%9D_page-0001.jpg)
 
 ## Основные достижения, отмеченные в письме:
 - ✅ Успешная реализация 5 учебных проектов
